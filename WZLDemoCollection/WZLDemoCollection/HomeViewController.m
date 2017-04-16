@@ -25,7 +25,7 @@
     self.title = @"HomeViewController";
 }
 
-- (IBAction)onMyFavBtnPressed:(id)sender
+- (IBAction)onFavBtnPressed:(id)sender
 {
     
 }
